@@ -3,6 +3,7 @@ unity-notification
 
 iOSとAndroidの通知に関するプラグイン
 
+**まだAndroidのProgress通知だけです**
 
 android-support-v4.jarが必要です。
 
@@ -15,7 +16,7 @@ android-support-v4.jarが必要です。
 
 [Android Developers](http://developer.android.com/guide/topics/ui/notifiers/notifications.html#Progress)に書かれているサンプルと同じように実装できます
 
-```
+```cs
 using UnityEngine;
 using System.Collections;
 
